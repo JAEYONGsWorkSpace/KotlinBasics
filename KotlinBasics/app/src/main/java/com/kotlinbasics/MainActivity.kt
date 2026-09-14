@@ -69,7 +69,7 @@ private fun week03Functions(){
 //
 //    println(greet("Android developer"))
 
-    println("== Kotlin Functions ==")
+    println("========= Kotlin Functions =========")
 
     fun greet(name: String): String {
         return "Hello, $name!"
