@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initializeData() {
-        studentList = ArrayList()
+        studentList = ArrayList()  // lateinit
         cartItemList = ArrayList()
         taskList = ArrayList()
 
